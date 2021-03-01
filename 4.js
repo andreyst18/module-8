@@ -1,0 +1,1 @@
+let variable = Math.random() * 100;
